@@ -43,7 +43,7 @@ This repository focuses on core data science and analysis tools, including:
 
 **Tools:** Pandas, Matplotlib, JupyterLab
 
-📍 *Location:* [[`chronic_diseases/`](./[chronic_diseases](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators))
+📍 *Location:* (./[chronic_diseases](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators))
 ](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators)
 
 
