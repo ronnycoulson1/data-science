@@ -29,17 +29,8 @@ This repository focuses on core data science and analysis tools, including:
 
 ---
 
-## 🧩 Project Milestones
-
 ### 1️⃣ Chronic Disease Analysis (CDC Dataset)
 **Goal:** Perform data cleaning, exploratory analysis, and visualize causes of chronic diseases across U.S. states.
-
-**Highlights:**
-- Loaded and cleaned 300K+ rows of public health data  
-- Explored missing values and inconsistencies  
-- Analyzed causes (e.g., Arthritis, Diabetes, Mental Health)  
-- Created bar charts for top causes and average health indicators  
-- Structured the project into clear milestones (data prep → EDA → visualization → reporting)
 
 **Tools:** Pandas, Matplotlib, JupyterLab
 
@@ -53,16 +44,6 @@ This repository serves as a **learning and portfolio space** for my journey in d
 Each project reflects hands-on experience applying theoretical concepts to real-world datasets.
 
 > My focus is on understanding **why** data behaves a certain way and how to communicate insights visually and effectively.
-
----
-
-## 🚀 Future Roadmap
-
-- 🧮 Add predictive modeling with Scikit-learn  
-- 🗂️ Integrate SQL and APIs for real-time data  
-- 📊 Build dashboards using Plotly and Streamlit  
-- 🤖 Explore advanced machine learning & deep learning frameworks  
-- 📈 Expand to financial and algorithmic trading datasets  
 
 ---
 
