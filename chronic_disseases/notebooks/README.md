@@ -12,7 +12,7 @@ The analysis aims to uncover trends in public health — how chronic conditions 
 
 ## 🧱 Project Tasks
 
-### **Phase 1 — Data Preparation**
+### **Analizys 1 — Data Preparation**
 1. Load the dataset into a DataFrame.  
 2. Inspect the data’s shape, column names, and missing values.  
 3. Clean the data:
